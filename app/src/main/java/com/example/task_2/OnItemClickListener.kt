@@ -1,7 +1,8 @@
 package com.example.task_2
 
-import com.example.task_2.model.ItemView
+import androidx.appcompat.widget.AppCompatImageView
+import com.example.task_2.model.RecyclerItem
 
-interface OnItemClickListener  {
-    fun onItemClick(item: ItemView)
+interface OnItemClickListener {
+    fun onItemClick(item: RecyclerItem, itemImg: AppCompatImageView)
 }

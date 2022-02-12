@@ -3,14 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/drawable/ic_finish.xml" value="0.1" />
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/font/almendra_sc.xml" value="0.1" />
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout-v21/recycler_item.xml" value="0.25" />
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout-v21/second_fragment.xml" value="0.13020833333333334" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/first_fragment.xml" value="0.13020833333333334" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/fragment_blank2.xml" value="0.25416666666666665" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/fragment_item.xml" value="0.13020833333333334" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/fragment_item_list.xml" value="0.152" />
         <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/recycler_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/layout/second_fragment.xml" value="0.176" />
+        <entry key="..\:/Android_lessons/Task_2/app/src/main/res/menu/menu.xml" value="0.25025641025641027" />
       </map>
     </option>
   </component>
